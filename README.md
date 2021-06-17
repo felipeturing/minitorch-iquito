@@ -1,13 +1,14 @@
-# MiniTorch Module 0  
+# MiniTorch Module 0
 
 <img src="https://minitorch.github.io/_images/match.png" width="100px">
 
-* Docs: https://minitorch.github.io/
+* Documentación: https://minitorch.github.io/
 
-* Overview: https://minitorch.github.io/module0.html
-
-* Tests:
+* Ejecutar las pruebas:
 
 ```
-python run_tests.py
+python3 run_tests.py
 ```
+
+* Resultados
+<img src="grafica-resultado.png" width="300">

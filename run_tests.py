@@ -1,4 +1,5 @@
 import os, sys
+
 if len(sys.argv) == 1 or int(sys.argv[1]) == 0:
 	print('')
 	print('=================')
@@ -10,22 +11,22 @@ if len(sys.argv) == 1 or int(sys.argv[1]) == 1:
 	print('=================')
 	print('Running test 1')
 	print('=================')
-	os.system('python -m pytest tests/ -m task0_1')
+	os.system('python3 -m pytest tests/ -m task0_1')
 if len(sys.argv) == 1 or int(sys.argv[1]) == 2:
 	print('')
 	print('=================')
 	print('Running test 2')
 	print('=================')
-	os.system('python -m pytest tests/ -m task0_2')
+	os.system('python3 -m pytest tests/ -m task0_2')
 if len(sys.argv) == 1 or int(sys.argv[1]) == 3:
 	print('')
 	print('=================')
 	print('Running test 3')
 	print('=================')
-	os.system('python -m pytest tests/ -m task0_3')
+	os.system('python3 -m pytest tests/ -m task0_3')
 if len(sys.argv) == 1 or int(sys.argv[1]) == 4:
 	print('')
 	print('=================')
 	print('Running test 4')
 	print('=================')
-	os.system('python -m pytest tests/ -m task0_4')
+	os.system('python3 -m pytest tests/ -m task0_4')
