@@ -10,5 +10,5 @@
 ```
 python3 run_tests.py
 ```
-* Resultados
+# Resultados
 <img src="grafica-resultado.png" width="1000">
