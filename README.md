@@ -1,14 +1,13 @@
-# MiniTorch Module 0
+# Repositorio generado de [minitorch/Module-0](https://github.com/minitorch/Module-0)
+## MiniTorch Module 0 Completado
 
 <img src="https://minitorch.github.io/_images/match.png" width="100px">
 
-* Documentación: https://minitorch.github.io/
-
-* Ejecutar las pruebas:
-
+# Estudiante 
+	Walter Jesús Felipe Tolentino
 ```
 python3 run_tests.py
 ```
 
 * Resultados
-<img src="grafica-resultado.png" width="300">
+<img src="grafica-resultado.png" width="600">
