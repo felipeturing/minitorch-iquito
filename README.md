@@ -5,9 +5,10 @@
 
 # Estudiante 
 	Walter Jesús Felipe Tolentino
+	
+# Ejecutar las pruebas
 ```
 python3 run_tests.py
 ```
-
 * Resultados
-<img src="grafica-resultado.png" width="600">
+<img src="grafica-resultado.png" width="1000">
